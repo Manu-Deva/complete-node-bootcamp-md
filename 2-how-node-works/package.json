@@ -1,0 +1,11 @@
+{
+	"name": "data-flowing",
+	"version": "1.0.0",
+	"description": "learning about streams",
+	"main": "streams.js",
+	"scripts": {
+		"start": "nodemon streams.js"
+	},
+	"author": "Manu Deva",
+	"license": "ISC"
+}

@@ -4,7 +4,7 @@ const http = require('http');
 const url = require('url');
 //npm registry modules
 const slugify = require('slugify');
-//own function kicked to modules
+//dev function kicked to modules
 const replaceTemplate = require('./modules/replaceTemplate');
 
 
